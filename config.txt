@@ -1,0 +1,6 @@
+owner=324859000959270913
+prefix=S
+game=Break | Splay
+stayinchannel=true
+songinstatus=false
+token=NTc5MTY5NjY1MjI2Mzc1MTgw.XN-QWg.D_VVwZN79Urb1_GH-wT2EmSur78
